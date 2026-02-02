@@ -1,4 +1,8 @@
 # Intelligent Plant Disease Detection
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Tools-Jupyter%20Notebook-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Complete-success)
 
 A Deep Learning project designed to detect and classify diseases in tomato plants using Convolutional Neural Networks (CNN). This system processes images of plant leaves to identify health status and various specific conditions, aiding in early diagnosis and crop management.
 
