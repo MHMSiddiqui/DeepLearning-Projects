@@ -1,4 +1,8 @@
 # 🏥 Robust Zero-Watermarking of Medical Images using Deep CNN
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Tools-Jupyter%20Notebook-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Complete-success)
 
 A deep learning–based framework for **secure copyright protection and authentication of medical images** using **zero-watermarking and CNN feature extraction**. This system ensures **data integrity without modifying the original image**, making it ideal for healthcare applications.
 
